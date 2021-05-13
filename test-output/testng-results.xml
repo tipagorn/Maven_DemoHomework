@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-12T20:07:15 EDT" name="Default suite" finished-at="2021-05-12T20:07:39 EDT" duration-ms="23765">
+    <groups>
+    </groups>
+    <test started-at="2021-05-12T20:07:15 EDT" name="Default test" finished-at="2021-05-12T20:07:39 EDT" duration-ms="23765">
+      <class name="automationPractise.MyAccount">
+        <test-method is-config="true" signature="openURL()[pri:0, instance:automationPractise.MyAccount@3a60c416]" started-at="2021-05-12T20:07:15 EDT" name="openURL" finished-at="2021-05-12T20:07:21 EDT" duration-ms="5637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="myAccountDashBoard()[pri:0, instance:automationPractise.MyAccount@3a60c416]" started-at="2021-05-12T20:07:21 EDT" name="myAccountDashBoard" finished-at="2021-05-12T20:07:29 EDT" duration-ms="7477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccountDashBoard -->
+        <test-method is-config="true" signature="openURL()[pri:0, instance:automationPractise.MyAccount@3a60c416]" started-at="2021-05-12T20:07:29 EDT" name="openURL" finished-at="2021-05-12T20:07:34 EDT" duration-ms="5671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method signature="myAccountOrder()[pri:0, instance:automationPractise.MyAccount@3a60c416]" started-at="2021-05-12T20:07:34 EDT" name="myAccountOrder" finished-at="2021-05-12T20:07:39 EDT" duration-ms="4925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccountOrder -->
+      </class> <!-- automationPractise.MyAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
